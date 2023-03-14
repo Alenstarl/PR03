@@ -1,0 +1,14 @@
+C:\Users\Jakus\Documents\Bootcamp\No2\ProductWebApi\AspNetCoreWebApi.Sql\bin\Debug\net6.0\AspNetCoreWebApi.Sql.deps.json
+C:\Users\Jakus\Documents\Bootcamp\No2\ProductWebApi\AspNetCoreWebApi.Sql\bin\Debug\net6.0\AspNetCoreWebApi.Sql.runtimeconfig.json
+C:\Users\Jakus\Documents\Bootcamp\No2\ProductWebApi\AspNetCoreWebApi.Sql\bin\Debug\net6.0\AspNetCoreWebApi.Sql.dll
+C:\Users\Jakus\Documents\Bootcamp\No2\ProductWebApi\AspNetCoreWebApi.Sql\bin\Debug\net6.0\AspNetCoreWebApi.Sql.pdb
+C:\Users\Jakus\Documents\Bootcamp\No2\ProductWebApi\AspNetCoreWebApi.Sql\obj\Debug\net6.0\AspNetCoreWebApi.Sql.csproj.AssemblyReference.cache
+C:\Users\Jakus\Documents\Bootcamp\No2\ProductWebApi\AspNetCoreWebApi.Sql\obj\Debug\net6.0\AspNetCoreWebApi.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakus\Documents\Bootcamp\No2\ProductWebApi\AspNetCoreWebApi.Sql\obj\Debug\net6.0\AspNetCoreWebApi.Sql.AssemblyInfoInputs.cache
+C:\Users\Jakus\Documents\Bootcamp\No2\ProductWebApi\AspNetCoreWebApi.Sql\obj\Debug\net6.0\AspNetCoreWebApi.Sql.AssemblyInfo.cs
+C:\Users\Jakus\Documents\Bootcamp\No2\ProductWebApi\AspNetCoreWebApi.Sql\obj\Debug\net6.0\AspNetCoreWebApi.Sql.csproj.CoreCompileInputs.cache
+C:\Users\Jakus\Documents\Bootcamp\No2\ProductWebApi\AspNetCoreWebApi.Sql\obj\Debug\net6.0\AspNetCoreWebApi.Sql.dll
+C:\Users\Jakus\Documents\Bootcamp\No2\ProductWebApi\AspNetCoreWebApi.Sql\obj\Debug\net6.0\refint\AspNetCoreWebApi.Sql.dll
+C:\Users\Jakus\Documents\Bootcamp\No2\ProductWebApi\AspNetCoreWebApi.Sql\obj\Debug\net6.0\AspNetCoreWebApi.Sql.pdb
+C:\Users\Jakus\Documents\Bootcamp\No2\ProductWebApi\AspNetCoreWebApi.Sql\obj\Debug\net6.0\AspNetCoreWebApi.Sql.genruntimeconfig.cache
+C:\Users\Jakus\Documents\Bootcamp\No2\ProductWebApi\AspNetCoreWebApi.Sql\obj\Debug\net6.0\ref\AspNetCoreWebApi.Sql.dll
